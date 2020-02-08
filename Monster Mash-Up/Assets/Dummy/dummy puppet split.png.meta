@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 9b58425ff05889145a5e6d9e4db7a227
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dummy head
+    21300002: dummy body
+    21300004: dummy bicep right
+    21300006: dummy neck
+    21300008: dummy forearm right
+    21300010: dummy bicep left
+    21300012: dummy thigh right
+    21300014: dummy forearm left
+    21300016: dummy thigh left
+    21300018: dummy foot left
+    21300020: dummy foot right
+    21300022: dummy puppet split_0
+    21300024: dummy forearm left 2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dummy head
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 868
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67fab87fde0ffc4a822d76aeddcde31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy body
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 840
+        width: 138
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5393604, y: 0.4383499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f673cd570a2374ea49b75eb34507e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy bicep right
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 892
+        width: 77
+        height: 120
+      alignment: 9
+      pivot: {x: 0.1618581, y: 0.91376495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728453ae2ea197f4581564c0ca05d785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy neck
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 795
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.50989324, y: 0.18564634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75493929bfeb4c34687cabb91a13c460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy forearm right
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 684
+        width: 142
+        height: 163
+      alignment: 9
+      pivot: {x: 0.115525365, y: 0.9227954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a38068847a4244bb2fac0483dc62d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy bicep left
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 604
+        width: 76
+        height: 118
+      alignment: 9
+      pivot: {x: 0.8777269, y: 0.92104065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50f29ddd341a941b7b00d57e442f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy thigh right
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 468
+        width: 88
+        height: 158
+      alignment: 9
+      pivot: {x: 0.38909912, y: 0.8308492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883c143fc392e0a41be9f6886156940f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy forearm left
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 380
+        width: 143
+        height: 161
+      alignment: 9
+      pivot: {x: 0.87439144, y: 0.9367016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd05b2fa7b11f47a12b6353cbfbc5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy thigh left
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 362
+        width: 84
+        height: 156
+      alignment: 9
+      pivot: {x: 0.6035291, y: 0.85027605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08226a13be043458460e4263753b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy foot left
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 122
+        width: 102
+        height: 206
+      alignment: 9
+      pivot: {x: 0.71383756, y: 0.89497966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b6ed29e919574493e1439f94caaf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy foot right
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 140
+        width: 128
+        height: 209
+      alignment: 9
+      pivot: {x: 0.22247243, y: 0.91579485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601662a2e6521048ab7cede90a417b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy puppet split_0
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 91
+        width: 114
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2417d21d3d73448376a3ce8b0d433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy forearm left 2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 436
+        width: 176
+        height: 195
+      alignment: 9
+      pivot: {x: 0.19507842, y: 0.1747507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb963419a88e543912812519140042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed91a1a22945c52458f8a06e9c6a1e78
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
