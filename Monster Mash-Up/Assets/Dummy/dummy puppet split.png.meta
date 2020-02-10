@@ -15,6 +15,7 @@ TextureImporter:
     21300020: dummy foot right
     21300022: dummy puppet split_0
     21300024: dummy forearm left 2
+    21300026: dummy forearm 3
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -328,26 +329,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dummy puppet split_0
-      rect:
-        serializedVersion: 2
-        x: 990
-        y: 91
-        width: 114
-        height: 275
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: daf2417d21d3d73448376a3ce8b0d433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: dummy forearm left 2
       rect:
         serializedVersion: 2
@@ -363,6 +344,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efbb963419a88e543912812519140042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dummy forearm 3
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 206
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.17891495, y: 0.20708032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4ca800305b4ea4d898e203456b4123
       vertices: []
       indices: 
       edges: []
